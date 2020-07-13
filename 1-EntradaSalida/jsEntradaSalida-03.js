@@ -8,7 +8,7 @@ function mostrar()
 	alert(nombreIngresado);            //Aparece esto:[object HTMLInputElement] cuando me olvido el value
  //nombreIngresado=document.getElementById('txtIdNombre').value;  
  //alert(nombreIngresado);                navegador viejo y no lo quiero tomar asi relacionar el document (es el html)
- 
+ //
 //get+tab luego shift i
  //declaro variable, ingreso, muestro por prompt
 

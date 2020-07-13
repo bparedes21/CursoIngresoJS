@@ -9,5 +9,6 @@ function mostrar()
 	edadIgresada=txtIdEdad.value;
 
 	alert("Su nombre: "+nombreIngresado+" Su edad: "+edadIgresada); //como concatenar?
+	                                                                 //con +
 }
 

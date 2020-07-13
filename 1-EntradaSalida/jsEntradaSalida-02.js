@@ -12,5 +12,5 @@ function mostrar()
                                               //como se define?
                                               //alert, comentario, apuntes,
                                               //prompt, guardar datos en variable, diferencia con alert: el prompt
-                                               devuelve un dato.
+                                              // devuelve un dato.
 }
