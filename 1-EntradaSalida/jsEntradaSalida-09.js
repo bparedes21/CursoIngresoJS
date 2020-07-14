@@ -7,7 +7,7 @@ function mostrarAumento()
 {
     
     var sueldoIngresado;//declaracion de variables
-    var aumentoDeSueldo;
+    var aumentoDeSueldo;//declaracion de variables
    // var porcentajeDelSueldo;
 	
 	sueldoIngresado=txtIdSueldo.value;//ingreso de datos por id

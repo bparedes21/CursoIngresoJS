@@ -6,8 +6,8 @@ ej.: "El resto es 0 ."*/
 function SacarResto()
 {
 	var dividendoIngresado; //declaracion de variables
-	var divisorIngresado;
-	var restoDeLaDivision;
+	var divisorIngresado;//declaracion de variables
+	var restoDeLaDivision;//declaracion de variables
 
 	dividendoIngresado=txtIdNumeroDividendo.value;//ingreso de datos
 	divisorIngresado=txtIdNumeroDivisor.value;

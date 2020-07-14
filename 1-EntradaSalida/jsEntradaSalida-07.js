@@ -5,19 +5,19 @@ mostrar el resulto por medio de "ALERT"
 ej.: "la Resta es 750"*/ 
 function sumar()
 {	
-	var PrimerNumeroIngresado;
+	var PrimerNumeroIngresado;//declaracion de variables
 	var SegundoNmeroIngresado;
 	var resultadoDelaSuma;
 
-	PrimerNumeroIngresado=txtIdNumeroUno.value;
+	PrimerNumeroIngresado=txtIdNumeroUno.value;//ingreso de datos en variable por id
     SegundoNmeroIngresado=txtIdNumeroDos.value;
 
-    PrimerNumeroIngresado=parseInt(PrimerNumeroIngresado);
+    PrimerNumeroIngresado=parseInt(PrimerNumeroIngresado);//pasar  a entero
     SegundoNmeroIngresado=parseInt(SegundoNmeroIngresado);
     
-    resultadoDelaSuma=PrimerNumeroIngresado+SegundoNmeroIngresado;
+    resultadoDelaSuma=PrimerNumeroIngresado+SegundoNmeroIngresado;//resultado del calculo
 
-    alert("La suma de los dos numeros ingresados es: "+resultadoDelaSuma);
+    alert("La suma de los dos numeros ingresados es: "+resultadoDelaSuma);//mostrar suma
 
 }
 

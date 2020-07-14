@@ -5,9 +5,9 @@ mostrar el importe con un Descuento del 25 %
 en el cuadro de texto "RESULTADO"*/
 function mostrarAumento()
 {
-	var importeIngresado;
-	var importeConDescuento;
-	//var calculoDelDescuento;
+	var importeIngresado;//declaracion de variables
+	var importeConDescuento;//declaracion de variables
+	
 	
 	
 	importeIngresado=txtIdImporte.value; //valor ingresa en variable
